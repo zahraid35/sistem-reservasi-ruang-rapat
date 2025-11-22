@@ -5,11 +5,12 @@ Ketika seorang pengguna melakukan pemesanan ruang rapat, sistem akan memastikan 
 **User mengisi form reservasi**
 
 Data yang dikirim ke sistem:
-ID Ruangan
-Tanggal pemakaian
-Jam Mulai
-Jam Selesai
-Keperluan reservasi
+ID,
+Ruangan,
+Tanggal, 
+Jam Mulai, 
+Jam Selesai, 
+Keperluan reservasi.
 
 Pada saat user mengajukan reservasi, reservasi controller menjalankan pengecekan jadwal yang bentrok berikut:
 ```php
