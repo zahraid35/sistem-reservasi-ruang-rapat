@@ -5,7 +5,6 @@ Ketika seorang pengguna melakukan pemesanan ruang rapat, sistem akan memastikan 
 **User mengisi form reservasi**
 
 Data yang dikirim ke sistem:
-
 ID Ruangan
 Tanggal pemakaian
 Jam Mulai
